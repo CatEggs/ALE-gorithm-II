@@ -6,13 +6,13 @@
 
 ### Group Members: 
 ```
-+ Barry Haygood - Project manager
-+ Sheetal Bongale - Lead Developer
-+ Cathy Egboh
-+ Catherine Gomes
-+ Maya Saeidi
-+ Michelle Brucato
-+ Sahar Mohammadi
++ Barry Haygood - Project manager/Lead Data Scientist
++ Sheetal Bongale - Lead Developer/Data Scientist
++ Cathy Egboh - Fullstack Developer
++ Catherine Gomes - Backend Developer
++ Maya Saeidi - Frontend Developer
++ Michelle Brucato - Frontend Developer
++ Sahar Mohammadi - Frontend Developer
 ```
 
 <details>
