@@ -4,7 +4,7 @@
 ![beers gif](static/img/BeerExplosion.gif)
 
 
-### Group Members: 
+### Group Members:
 ```
 + Barry Haygood - Project manager/Lead Data Scientist
 + Sheetal Bongale - Lead Developer/Data Scientist
