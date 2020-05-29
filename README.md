@@ -60,7 +60,7 @@
 ## What is ALE-gorithm?
 Have you ever wandered down the beer aisle feeling overwhelmed by options? Do you have a thirst for deliciously brewed craft beer, but don’t know which to choose?
 Then you’ve come to the right place!
-The goal of the ALE-gorithm recommender web application is to recommend and match a user to the best brews out there and to educate consumers on the craft beer space including styles, flavor profiles.
+The goal of the ALE-gorithm recommender web application is to recommend and match a user to the best brews out there and to educate consumers on the craft beer space including styles, flavor profiles. 
 
 ### Features
 🟡<b> Beer Recommender:</b>
